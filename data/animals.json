@@ -117,6 +117,26 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Mufasa",
+      "species": "Lion",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Cooper",
+      "species": "Canine",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany",
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
